@@ -10,3 +10,7 @@ class Cuadrado(Figura):
         lado = self.punto_uno.calcular_distancia(self.punto_dos)
         self.area = lado ** 2
 
+    def calcular_perimetro(self):
+        lado = self.punto_uno.calcular_distancia(self.punto_dos)
+        self.perimetro = 4 * lado
+

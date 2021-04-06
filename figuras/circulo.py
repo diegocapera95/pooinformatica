@@ -10,3 +10,7 @@ class Circulo(Figura):
     def calcular_area(self):
         radio = self.punto_uno.calcular_distancia(self.punto_dos)
         self.area = pi * radio ** 2
+
+    def calcular_perimetro(self):
+        radio = self.punto_uno.calcular_distancia(self.punto_dos)
+        self.perimetro = 2 * pi * radio
