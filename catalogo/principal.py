@@ -6,6 +6,7 @@ app = Flask(__name__)
 
 
 @app.route('/')
+
 def principal():
     fabricas = [FabricaHumanos(), FabricaOrcos()]
     fabrica = choice(fabricas)
@@ -20,8 +21,10 @@ def principal():
     productos.append(escudo)
     productos.append(montura)
     productos.append(cuerpo)
-
+   
     return render_template("productos.html", productos = productos)
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+
