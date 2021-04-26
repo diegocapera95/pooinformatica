@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<fabrica>
+ <producto id="1">
+ <nombre>Camara HD</nombre>
+ <descripcion>Camara HD Full Definition</descripcion>
+ <tipo>parte</tipo>
+ </producto>
+ <producto id="2">
+ <nombre>Impresora láser</nombre>
+ <descripcion>Impresora láser de alta precisión y de cartuchos recargables</descripcion>
+ <tipo>parte</tipo>
+ </producto>
+<producto id="3">
+ <nombre>Computador portátil</nombre>
+ <descripcion>Computador portátil de alta duración y memoria </descripcion>
+ <tipo>computador</tipo>
+ </producto>
+<producto id="4">
+ <nombre>Computador Gamer</nombre>
+ <descripcion>Computador Gamer con graficos de alta definición</descripcion>
+ <tipo>computador</tipo>
+ </producto>
+<producto id="5">
+ <nombre>Computador de Diseño</nombre>
+ <descripcion>Computador delgado y de alta memoria Ram y Detalles gráficos</descripcion>
+ <tipo>computador</tipo>
+ </producto>
+</fabrica> 

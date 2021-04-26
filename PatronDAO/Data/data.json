@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Mouse Optico",
+        "descripcion":"Mouse optico marca Dell de alta precisión",
+        "tipo":"parte"
+    },
+    {
+        "nombre": "Teclado",
+        "descripcion":"teclado inalámbrico",
+        "tipo":"parte"
+    },
+    {
+        "nombre": "Computador de escritorio",
+        "descripcion":"Computador con memoria Ram de 4G, disco duro de 1TB",
+        "tipo":"computador"
+    }
+]

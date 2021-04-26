@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataset>
+    <record>
+         <nombre>Camara HD</nombre>
+         <descripcion>Camara HD Full Definition</descripcion>
+         <tipo>parte</tipo>
+    </record>
+    <record>
+         <nombre>Impresora láser</nombre>
+         <descripcion>Impresora láser de alta precisión y de cartuchos recargables</descripcion>
+         <tipo>parte</tipo>
+    </record>
+    <record>
+         <nombre>Computador portátil</nombre>
+         <descripcion>Computador portátil de alta duración y memoria    </descripcion>
+         <tipo>computador</tipo>
+    </record>
